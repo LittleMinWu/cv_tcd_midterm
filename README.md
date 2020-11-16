@@ -15,6 +15,8 @@ As we can see from R10, the cumulatiive proportion of variance of 10 is 0.6896, 
 
 
 #question B
+
+
 I use google colab to train the model and get the output,and this is my bachlor's dissertation.
 the link is:https://drive.google.com/drive/folders/1O2wXVQwGTfKKvA1uHTWd_yD2fIZaW-gx?usp=sharing
 
